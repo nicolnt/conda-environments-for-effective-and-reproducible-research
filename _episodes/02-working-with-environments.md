@@ -381,7 +381,7 @@ $ conda install scipy=1.9.3 numpy=1.9.3
 >
 > ## Where do Conda environments live?
 >
-> Another method of finding out where your Conda environment live if you're not sure is to use `conda --info` which
+> Another method of finding out where your Conda environment live if you're not sure is to use `conda info` which
 > provides the location of the active directory (`active env location :`) and the location environments are stored
 > (`envs directories : `) along with additional information.
 >
